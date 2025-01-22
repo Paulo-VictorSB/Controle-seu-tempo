@@ -1,0 +1,43 @@
+Criação de Tarefas e Prazos:
+Título da tarefa.
+Data de início e prazo final.
+Descrição detalhada.
+Etiquetas ou categorias (ex.: trabalho, pessoal, urgente).
+
+Notificações e Lembretes:
+Alertas via e-mail, SMS, ou notificações push.
+Configuração de lembretes múltiplos (dias, horas, minutos antes do prazo).
+
+Visualização de Prazos:
+Modo lista.
+Calendário mensal, semanal e diário.
+Linha do tempo (timeline)
+
+Recorrência de Tarefas:
+Configuração de tarefas repetitivas (diárias, semanais, mensais).
+
+Relatórios e Análises:
+Painéis com métricas (tarefas concluídas, atrasadas, por categoria).
+Relatórios semanais/mensais enviados por e-mail.
+
+5. Tecnologias e Ferramentas
+
+6. Design e Experiência do Usuário
+Minimalismo: Evite telas confusas e opte por um design claro e direto.
+Responsividade: Certifique-se de que o software funciona bem em desktops, tablets e smartphones.
+Acessibilidade: Suporte para leitores de tela e navegação via teclado.
+
+:root {
+  /* Cores principais */
+  --color-blue-light: #4A90E2;
+  --color-green-vibrant: #7ED321;
+
+  /* Cores secundárias */
+  --color-gray-light: #F4F4F4;
+  --color-gray-medium: #9B9B9B;
+  --color-blue-dark: #003366;
+
+  /* Cores de destaque */
+  --color-yellow-highlight: #FFC107;
+  --color-red-alert: #D0021B;
+}
